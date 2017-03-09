@@ -1,0 +1,15 @@
+{
+  "name": "vanilla-remote",
+  "version": "1.0.0",
+  "description": "Control Vanilla Forums admin functionality through Gulp",
+  "main": "src/index.js",
+  "author": "Tomodomo/Van Patten Media Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "defaults": "^1.0.3",
+    "request": "^2.81.0",
+    "request-promise": "^4.1.1",
+    "through2": "^2.0.3"
+  }
+}
